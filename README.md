@@ -13,3 +13,5 @@ _Windows_
 3. Run the executable file _DevilsReach.exe_
 
 enjoy :)
+
+_note: the game is developed for a 16:9 aspect ratio. all will work, but I cannot guarantee it looks brilliant on al display sizes._
