@@ -1,6 +1,7 @@
 Build files for MacOS and Windows for a 2D platformer and puzzle game developed in Unity with C#. Project for CISC226 at Queen's University.
 
 **Steps to play**
+
 _MacOS:_
 1. Download _MacOSBuild.zip_
 2. Decompress the folder
