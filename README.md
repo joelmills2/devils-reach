@@ -14,4 +14,4 @@ _Windows_
 
 enjoy :)
 
-_note: the game is developed for a 16:9 aspect ratio. all will work, but I cannot guarantee it looks brilliant on al display sizes._
+_note: the game is developed for a 16:9 aspect ratio. all will work, but I cannot guarantee it looks brilliant on all aspect ratios._
